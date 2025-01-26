@@ -26,7 +26,7 @@ A simple console-based hurdle game developed in C, where the player controls a d
 ## How to Run:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/dino-game.git
+   git clone https://github.com/yourusername/duno-game.git
 2. Open the project in your preferred C compiler or IDE (e.g., Code::Blocks or Visual Studio).
-Compile the dino.c file and run the program.
+Compile the duno.c file and run the program.
 
