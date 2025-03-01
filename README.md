@@ -1,4 +1,4 @@
-# Duno Game – Console-based Hurdle Game
+# Dino Game – Console-based Hurdle Game
 
 A simple console-based hurdle game developed in C, where the player controls a dinosaur that jumps over moving obstacles. It features progressive difficulty, score tracking, and basic gameplay mechanics using ASCII art. It’s a fun way to practice programming and game development in C.
 
